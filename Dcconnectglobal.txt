@@ -1,0 +1,2 @@
+network,country,region,city,postal
+101.1.5.0/24,ID,ID-JK,Jakarta,
